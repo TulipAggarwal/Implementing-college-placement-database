@@ -1,1 +1,2 @@
 # Implementing-college-placement-database
+The program comprises of the database collected from IIT Bombay for the placement of candidates in various companies. The main concept of this project is massive data management based on C++ chapter data file handling. The program is capable of processing large amounts of data and queries with the help of specific filters. The program has provisions for storing all kinds of essential information regarding the candidates’ placements. 
